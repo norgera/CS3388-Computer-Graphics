@@ -1,4 +1,4 @@
-# CS3388-Computer-Graphics
+# Computer Graphics
 
 ![](bezier.gif)
 
