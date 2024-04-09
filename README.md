@@ -3,7 +3,8 @@
 ![bezier](https://github.com/norgera/CS3388-Computer-Graphics/assets/95401214/9ac6fe2a-01a7-4695-b278-acbacd57cbde)
 
 Links House </br>
-![](LinksHouse.png)
+![LinksHouse](https://github.com/norgera/CS3388-Computer-Graphics/assets/95401214/bc1bca73-515f-4e3e-bc1d-37ec57008c6d)
+
 
 Marching Cubes </br>
 <img width="1439" alt="MarchingCubes" src="https://github.com/norgera/CS3388-Computer-Graphics/assets/95401214/cebb594d-5d13-4837-acd5-686eb2807f59">
